@@ -1,15 +1,15 @@
 # Ergonomic-Posture-and-Sitting-Time-Monitoring-Device
 Introducing a low-cost, wearable and chair-mounted ergonomic solution that monitors posture and sitting time, helping you maintain better sitting habits and encouraging regular breaks for a healthier workday.
-#Elevator pitch
+# Elevator pitch
 Introducing a low-cost, wearable and chair-mounted ergonomic solution that monitors posture and sitting time, helping you maintain better sitting habits and encouraging regular breaks for a healthier workday.
-#Tagline
+# Tagline
 Sit smarter, live healthier—monitor your posture and sitting habits effortlessly.
-#About the project
+# About the project
 
-#Inspiration
+# Inspiration
 The inspiration for this project came from the realization that many people, including myself, spend long hours sitting at a desk, often with poor posture and little movement. This prolonged sitting can lead to serious health issues such as back pain, poor circulation, and fatigue. We wanted to create a simple and affordable device that could help individuals maintain better posture and encourage them to take regular breaks, ultimately leading to a healthier lifestyle.
 
-##What it does
+# What it does
 The device monitors both posture and sitting time:
 - Posture Monitoring: A wearable tilt sensor detects the user's posture. If the user slouches or deviates from a healthy sitting position, the solution provides feedback to correct it. (For demonstration purposes, the threshold is temporarily reduced to a few seconds to quickly observe the behavior.) 
 - Sitting Time Monitoring: An ultrasonic sensor attached to the chair monitors how long the user has been sitting. After 30 minutes of continuous sitting, the device alerts the user to take a break, stand, or move around. (For demonstration purposes, this threshold is temporarily reduced to 5 seconds to observe the behavior quickly.)
