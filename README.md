@@ -29,5 +29,5 @@ We are proud of successfully building a working prototype that can track both po
 ## What we learned
 Throughout the project, we learned a lot about sensor integration and human-computer interaction. We gained experience in designing wearable technology that balances functionality and comfort, as well as the importance of proper calibration and testing to ensure accurate results.
 
-## What's next for Untitled
+## What's next?
 Next, we plan to refine the design by making the device smaller and more comfortable for long-term wear. We also aim to integrate additional features, such as tracking more complex movements or posture adjustments, and developing a companion app to log data and provide more detailed feedback. Ultimately, we want to create a comprehensive ergonomic solution that helps users build lasting healthy habits while working at a desk.
